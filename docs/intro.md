@@ -1,8 +1,10 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
+title: Welcome
+slug: /
 ---
 
-# Tutorial Intro
+# UBC PMC Documentation
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
